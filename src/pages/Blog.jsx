@@ -10,7 +10,7 @@ const Blog = () => {
   
     </div>
     <div className='text-xl font-semibold text-center'>
-    <h2>Latest Posts</h2>
+    <h2>Latest Posts    </h2>
         <p>Explore blog posts from each of our team members on various topics of interest</p>
         </div>
         <section className='flex-row p-6  ml-[28%] w-[45%]  '>
